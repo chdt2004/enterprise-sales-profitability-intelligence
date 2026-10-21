@@ -1,0 +1,9 @@
+PRODUCT_ID,PRODUCT_NAME,CATEGORY,LIST_PRICE,SUPPLIER
+P001,Laptop,Technology,800,S2
+P002,Monitor,Technology,220,S3
+P003,Keyboard,Technology,55,S1
+P004,Desk,Furniture,260,S2
+P005,Chair,Furniture,140,S3
+P006,Cabinet,Furniture,180,S1
+P007,Paper,Office,12,S2
+P008,Pens,Office,8,S3

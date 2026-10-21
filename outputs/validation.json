@@ -1,0 +1,20 @@
+{
+  "revenue_gbp": 12958966.38,
+  "gross_profit_gbp": 4261084.72,
+  "margin_pct": 0.32881362564349836,
+  "orders": 17214,
+  "aov_gbp": 752.8155210874869,
+  "checks_failure_counts": {
+    "duplicate_order_lines": 0,
+    "missing_products": 0,
+    "missing_customers": 0,
+    "missing_costs": 0,
+    "duplicate_cost_keys": 0,
+    "duplicate_inventory_keys": 0,
+    "duplicate_targets": 0,
+    "invalid_values": 0,
+    "row_reconciliation": 0,
+    "revenue_reconciliation": 0
+  },
+  "synthetic": true
+}
